@@ -10,4 +10,4 @@ A calculator that computes the simple interest based on the principal amount, an
 - `r`: Annual rate of interest
 
 ## Output
-- Simple Interest = \( p \times t \times r \)
+-  simple interest = p*t*r
